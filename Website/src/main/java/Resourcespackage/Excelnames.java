@@ -1,0 +1,104 @@
+package Resourcespackage;
+
+public class Excelnames {
+	
+	public static String AppURL = "https://codeboardtech.com/";
+	public static String Websiteicon="Website Header Icons";
+	public static String URL = "URL"; 
+	public static String CookieContent = "Cookies content";
+	public static String HomepicandContent = "Homepage pic and content";
+	public static String Aboutus = "About us";
+	public static String Contactus = "contactus";	
+	public static String CarDone = "Cardone";
+	public static String Whyus = "Why us section";
+	public static String Footerslide = "Footer slides";
+	public static String footercontent = "Footer Content";
+	public static String Insurancepage1 = "Insurance page 1";
+	public static String SalesandQuotes = "Sales and quotes";
+	public static String Underwriting = "Underwriting";
+	public static String Reinsurance = "Reinsurance";
+	public static String ClaimManagement = "Claim Management";
+	public static String BrokerManagement = "Broker Management";
+	public static String Fintechpage2 = "Fintech Page 2";
+	public static String Lending = "Lending";
+	public static String FraudandCompliance = "Fraud and compliance";
+	public static String CapitalMarkert = "capital market";
+	public static String AppMordenization = "App mordenization";
+	public static String Supercharge = "Supercharge";
+	public static String SuperchargeFeature = "Supercharge Feature";
+	public static String HyperScalling = "hyper scalling";
+	public static String PrductEngineeringServices = "Product Engineering Services";
+	public static String ApplicationModernization = "Application Modernization";
+	public static String CloudEngineering = "cloud-engineering";
+	public static String CloundEngineering1 = "Cloudengineering";
+	public static String CloudConsultingandMigration = "Cloud Consulting and Migration";
+	public static String HybridDevelopement = "Hybrid Developement";
+	public static String NativeDevelopement = "Native Development";
+	public static String API = "api";
+	public static String APIEconomy = "API Econony";
+	public static String MicroserviceArchitecture = "Microservice Architecture";
+	public static String TestingandServices = "Testing as service";
+	public static String Devops = "devops";
+	public static String DataEngineer = "Data Engineer";
+	public static String DataStreamandTransfer = "Data Streaming Transformation";
+	public static String Analytics = "analytics";
+	public static String AIML = "AIML";
+	public static String DataVisualization = "Data visualization";
+	public static String HyperAutomation = "Hyper automation";
+	public static String ISV = "ISV";
+	public static String ArchitectureandEvaluation = "Architecture and Evaluation";
+	public static String Extendedengineeringandservices = "Extended Engineering Service";
+	public static String CoRandD = "Co-Owned R and D";
+	public static String Logistics = "Logistics";
+	public static String Aggregatorsolutions = "Aggregator Solutions";
+	public static String Logesticandsolution = "Logistic Solution";
+	public static String Payment = "Payment";
+	public static String Paymentsubpage = "Payment subpage";
+	public static String Chargeback = "Chargeback";
+	public static String Casestudies = "Case studies";
+	public static String Casestudies1 = "Case studies 1";
+	public static String Casestudies2 = "Case studies 2";
+	public static String Casestudies3 = "Case studies 3";
+	public static String CaseStudies4 = "Case studies 4";
+	public static String CaseStudies5 = "Case studies 5";
+	public static String CaseStudies6 = "Case studies 6";
+	public static String Casestudies7 = "Case studies 7";
+	public static String Casestudies8 = "Case studies 8";
+	public static String Casestudies9 = "Case studies 9";
+	public static String Casestudies10 = "Case studies 10";
+	public static String Casestudies11 = "Case studies 11";
+	public static String Casestudies12 = "Case studies 12";
+	public static String Casestudies13 = "Case studies 13";
+	public static String Whitepaper = "White paper";
+	public static String Whitepaper1 = "White paper 1";
+	public static String Whitepaper2 = "White paper 2";
+	public static String Whitepaper3 = "White paper 3";
+	public static String Whitepaper4 = "White paper 4";
+	public static String Whitepaper6 = "White paper 6";
+	public static String Whitepaper7 = "White paper 7";
+	public static String Whitepaper8 = "White paper 8";
+	public static String Whitepaper10 = "White paper 10";
+	public static String Culture = "Culture";
+	public static String Workwithus = "Work with us";
+	public static String Toolsandtechnology = "Tools and technology";
+	public static String Engagementmodel = "Engagement Model";
+	public static String Team = "Team";
+	
+	/////////////=======================================Navigation Headers Name============//////////////////////////////
+	public static String Insurance = "insurance";
+	public static String Testing = "testing";
+	
+	public static String DataEngineeringH = "data-engineering";
+	public static String Fintech = "fintech";
+	public static String logesticsH = "logistics";
+	
+	public static String PaymentH = "payments";
+	public static String CasestudyH = "casestudy";
+	public static String PerspectiveH = "perspective";
+	public static String CultureH = "culture";
+	public static String WorkwithusH = "work-with-us";
+	public static String TechnologyH = "technology";
+	public static String EngagementH = "engagement";
+	public static String TeamH = "team";
+	
+}
